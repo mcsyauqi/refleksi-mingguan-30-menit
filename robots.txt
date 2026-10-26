@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://refleksi-mingguan-intidiri.statichost.page/sitemap.xml
